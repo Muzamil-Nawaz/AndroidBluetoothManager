@@ -1,0 +1,2 @@
+rootProject.name='BluetoothManagerLab5Task1'
+include ':app'
